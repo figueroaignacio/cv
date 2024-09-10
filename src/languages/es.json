@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "role": "Desarrollador Web - Desarrollador Frontend"
+  },
+  "contact": {
+    "title": "Contacto"
+  },
+  "education": {
+    "title": "Educación"
+  },
+  "languages": {
+    "title": "Lenguajes"
+  },
+  "about": {
+    "title": "Sobre mi"
+  },
+  "experience": {
+    "title": "Experiencia"
+  },
+  "skills": {
+    "title": "Habilidades"
+  }
+}
