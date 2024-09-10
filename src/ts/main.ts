@@ -1,8 +1,8 @@
 const langButtons = document.querySelectorAll<HTMLElement>("[data-language]");
 const textsToChange = document.querySelectorAll<HTMLElement>("[data-section]");
 
-import en from "./languages/en.json";
-import es from "./languages/es.json";
+import en from "../languages/en.json";
+import es from "../languages/es.json";
 
 type LanguageData = {
   [key: string]: {
