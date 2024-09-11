@@ -630,6 +630,26 @@ i {
   width: 100%;
 }
 
+.max-w-4 {
+  max-width: 1rem;
+}
+
+.max-w-4xl {
+  max-width: 56rem;
+}
+
+.max-w-7xl {
+  max-width: 80rem;
+}
+
+.max-w-28 {
+  max-width: 7rem;
+}
+
+.max-w-96 {
+  max-width: 24rem;
+}
+
 .grid-cols-2 {
   grid-template-columns: repeat(2, minmax(0, 1fr));
 }
@@ -666,6 +686,14 @@ i {
   margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));
 }
 
+.self-center {
+  align-self: center;
+}
+
+.text-pretty {
+  text-wrap: pretty;
+}
+
 .border-\[1px\] {
   border-width: 1px;
 }
@@ -684,6 +712,37 @@ i {
   padding-bottom: 3.5rem;
 }
 
+.px-5 {
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.px-52 {
+  padding-left: 13rem;
+  padding-right: 13rem;
+}
+
+.px-56 {
+  padding-left: 14rem;
+  padding-right: 14rem;
+}
+
+.pl-20 {
+  padding-left: 5rem;
+}
+
+.pr-20 {
+  padding-right: 5rem;
+}
+
+.pr-56 {
+  padding-right: 14rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -692,6 +751,11 @@ i {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
+}
+
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 
 .font-medium {

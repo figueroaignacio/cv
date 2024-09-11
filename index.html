@@ -7,21 +7,26 @@
     <link href="./src/styles/output.css" rel="stylesheet" />
     <title>Ignacio Figueroa - Curriculum Vitae</title>
   </head>
-  <body>
-    <main class="flex flex-col min-h-[100dvh] gap-5 px-80 py-14">
+  <body class="max-w-7xl mx-auto">
+    <main class="flex flex-col gap-5 px-56 py-14">
       <section class="flex items-center justify-between">
         <div>
           <h1 class="text-3xl font-medium">Ignacio Figueroa</h1>
           <h2 data-section="hero" data-value="role"></h2>
+          <p
+            data-section="hero"
+            data-value="description"
+            class="text-xs max-w-96 text-pretty"
+          ></p>
         </div>
         <p>
           <i class="fa-solid fa-location-dot"></i>
-          Buenos Aires, Argentina
+          <span class="text-xs"> Buenos Aires, Argentina </span>
         </p>
       </section>
       <div class="border-[1px] border-black/10"></div>
-      <div class="grid grid-cols-2 justify-center items-center mx-auto w-full">
-        <section class="mt-3">
+      <div class="grid grid-cols-2 justify-center items-center">
+        <section class="">
           <div>
             <h3 data-section="contact" data-value="title"></h3>
             <div class="space-y-2 text-sm">
@@ -40,7 +45,7 @@
             <h3 data-section="languages" data-value="title"></h3>
           </div>
         </section>
-        <section class="mt-7">
+        <section class="mt-3">
           <div>
             <h3 data-section="about" data-value="title"></h3>
             <p data-section="about" data-value="description"></p>
