@@ -12,7 +12,8 @@
     "title": "Languages"
   },
   "about": {
-    "title": "About me"
+    "title": "About me",
+    "description": "Web developer with a strong focus in the frontend side delivering high-quality solutions for enhanced user experiences. I've been diving into the web ecosystem on my own for nearly two years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech."
   },
   "experience": {
     "title": "Experience"
