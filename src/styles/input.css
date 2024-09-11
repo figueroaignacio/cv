@@ -26,4 +26,12 @@ body {
   p {
     @apply text-black/90;
   }
+
+  h3 {
+    @apply uppercase mb-3;
+  }
+
+  i {
+    @apply text-gray-600 mr-3 border-[1px] p-2 rounded-full;
+  }
 }
