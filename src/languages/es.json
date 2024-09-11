@@ -9,6 +9,16 @@
   "education": {
     "title": "Educación"
   },
+  "educationItem-1": {
+    "title": "Escuela de Educación Secundaria n°11",
+    "description": "Orientada a Ciencias Sociales",
+    "date": "2015 - 2021"
+  },
+  "educationItem-2": {
+    "title": "Desarrollo Web",
+    "description": "Formación autodidacta",
+    "date": "2021 - Presente"
+  },
   "languages": {
     "title": "Lenguajes",
     "spanish": "Español Nativo",
@@ -20,6 +30,15 @@
   },
   "experience": {
     "title": "Experiencia"
+  },
+  "experienceItem-1": {
+    "name": "Pawtrics Software LLC",
+    "role": "Desarrollador Frontend Trainee",
+    "date": "May 2023 - Apr 2024",
+    "item-1": "Diseño y desarrollo de componentes de usuario con Next.js",
+    "item-2": "Integración de datos desde PostgreSQL (Supabase)",
+    "item-3": "Implementación de MaterialUI como sistema de diseño",
+    "item-4": "Gestión de tablas visuales y creación de CRUDs"
   },
   "skills": {
     "title": "Habilidades",

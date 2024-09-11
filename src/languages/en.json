@@ -9,6 +9,16 @@
   "education": {
     "title": "Education"
   },
+  "educationItem-1": {
+    "title": "Secondary School n°11",
+    "description": "Focused on Social Sciences",
+    "date": "2015 - 2021"
+  },
+  "educationItem-2": {
+    "title": "Web Development",
+    "description": "Self-taught training",
+    "date": "2021 - Present"
+  },
   "languages": {
     "title": "Languages",
     "spanish": "Native Spanish",
@@ -21,8 +31,17 @@
   "experience": {
     "title": "Experience"
   },
+  "experienceItem-1": {
+    "name": "Pawtrics Software LLC",
+    "role": "Frontend Developer Trainee",
+    "date": "May 2023 - Apr 2024",
+    "item-1": "Design and development of user interface components with Next.js",
+    "item-2": "Data fetching from PostgreSQL (Supabase)",
+    "item-3": "Implementation of MaterialUI as a design system",
+    "item-4": "Management of visual tables and creation of CRUDs"
+  },
   "skills": {
-    "title": "Habilidades",
+    "title": "Skills",
     "skillsItems": "JavaScript, TypeScript, HTML, CSS, Tailwind, MaterialUI, React.js, Next.js, Astro, Markdown, Git, GitHub, Visual Studio Code."
   }
 }

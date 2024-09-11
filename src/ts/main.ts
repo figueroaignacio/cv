@@ -25,7 +25,7 @@ const updateContent = (selectedLanguage: keyof typeof languages) => {
   });
 };
 
-updateContent("en");
+updateContent("es");
 
 langButtons.forEach((button) => {
   button.addEventListener("click", () => {
