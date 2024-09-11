@@ -10,7 +10,9 @@
     "title": "Educación"
   },
   "languages": {
-    "title": "Lenguajes"
+    "title": "Lenguajes",
+    "spanish": "Español Nativo",
+    "english": "Inglés A2"
   },
   "about": {
     "title": "Sobre mi",
