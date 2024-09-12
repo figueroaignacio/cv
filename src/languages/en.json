@@ -24,6 +24,19 @@
     "spanish": "Spanish (Native)",
     "english": "English (A2)"
   },
+  "projects": {
+    "title": "Projects"
+  },
+  "projectItem-1": {
+    "name": "Web Society Platform",
+    "description": "A platform that covers the latest trends and tools in frontend development, built with Next.js and Tailwind CSS.",
+    "date": "2023 - Present"
+  },
+  "projectItem-2": {
+    "name": "Aspen UI Kit",
+    "description": "UI Components kit developed with React.js and TypeScript, focused on providing flexible and customizable components.",
+    "date": "2024 - Present"
+  },
   "about": {
     "title": "About Me",
     "description": "I have been actively involved in the web development ecosystem for over two years, specializing in frontend development. I’m passionate about creating intuitive and visually appealing user interfaces while staying current with the latest web technologies."

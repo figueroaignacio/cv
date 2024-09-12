@@ -24,6 +24,19 @@
     "spanish": "Español (Nativo)",
     "english": "Inglés (Nivel A2)"
   },
+  "projects": {
+    "title": "Proyectos"
+  },
+  "projectItem-1": {
+    "name": "Web Society Platform",
+    "description": "Una plataforma que cubre las últimas tendencias y herramientas en desarrollo web.",
+    "date": "2023 - Presente"
+  },
+  "projectItem-2": {
+    "name": "Aspen UI Kit",
+    "description": "kit de componentes UI desarrollada con React.js, TypeScript y Tailwind, enfocada en proporcionar componentes flexibles y personalizables.",
+    "date": "2024 - Presente"
+  },
   "about": {
     "title": "Acerca de mí",
     "description": "Desarrollador web Frontend con más de dos años de experiencia autodidacta en el ecosistema web. Me especializo en crear interfaces atractivas y funcionales, y me mantengo al día con las últimas tendencias tecnológicas para ofrecer soluciones modernas y escalables."

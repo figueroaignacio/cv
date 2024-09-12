@@ -668,12 +668,32 @@ a:hover {
   display: grid;
 }
 
+.max-w-2 {
+  max-width: 0.5rem;
+}
+
 .max-w-7xl {
   max-width: 80rem;
 }
 
 .max-w-96 {
   max-width: 24rem;
+}
+
+.max-w-36 {
+  max-width: 9rem;
+}
+
+.max-w-60 {
+  max-width: 15rem;
+}
+
+.max-w-64 {
+  max-width: 16rem;
+}
+
+.max-w-80 {
+  max-width: 20rem;
 }
 
 .list-disc {
@@ -730,6 +750,12 @@ a:hover {
   --tw-space-y-reverse: 0;
   margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1rem * var(--tw-space-y-reverse));
+}
+
+.space-y-3 > :not([hidden]) ~ :not([hidden]) {
+  --tw-space-y-reverse: 0;
+  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));
 }
 
 .text-pretty {
