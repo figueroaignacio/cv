@@ -1,7 +1,7 @@
 {
   "hero": {
     "role": "Desarrollador Web",
-    "description": "Con enfoque en el lado frontend centrado en ofrecer soluciones de alta calidad para experiencias de usuario mejoradas."
+    "description": "Especializado en frontend, enfocado en ofrecer soluciones de alta calidad que mejoren la experiencia del usuario."
   },
   "contact": {
     "title": "Contacto"
@@ -10,23 +10,23 @@
     "title": "Educación"
   },
   "educationItem-1": {
-    "title": "Escuela de Educación Secundaria n°11",
-    "description": "Orientada a Ciencias Sociales",
+    "title": "Escuela de Educación Secundaria N°11",
+    "description": "Orientación en Ciencias Sociales",
     "date": "2015 - 2021"
   },
   "educationItem-2": {
     "title": "Desarrollo Web",
     "description": "Formación autodidacta",
-    "date": "2021 - Presente"
+    "date": "2021 - Actualidad"
   },
   "languages": {
-    "title": "Lenguajes",
-    "spanish": "Español Nativo",
-    "english": "Inglés A2"
+    "title": "Idiomas",
+    "spanish": "Español (Nativo)",
+    "english": "Inglés (A2)"
   },
   "about": {
-    "title": "Sobre mi",
-    "description": "Me metí de lleno en el ecosistema web por mi cuenta durante dos años, enfocándome en el Desarrollo Frontend, absorbiendo todo lo que puedo sobre la creación de interfaces de usuario increíbles. Siempre con ganas de aprender y estar al tanto de la última tecnología web"
+    "title": "Sobre mí",
+    "description": "Llevo más de dos años inmerso en el ecosistema web de forma autodidacta, enfocándome en el desarrollo frontend. Me apasiona crear interfaces de usuario atractivas y funcionales, manteniéndome siempre al día con las últimas tecnologías."
   },
   "experience": {
     "title": "Experiencia"
@@ -34,11 +34,11 @@
   "experienceItem-1": {
     "name": "Pawtrics Software LLC",
     "role": "Desarrollador Frontend Trainee",
-    "date": "May 2023 - Apr 2024",
-    "item-1": "Diseño y desarrollo de componentes de usuario con Next.js",
-    "item-2": "Integración de datos desde PostgreSQL (Supabase)",
-    "item-3": "Implementación de MaterialUI como sistema de diseño",
-    "item-4": "Gestión de tablas visuales y creación de CRUDs"
+    "date": "Mayo 2023 - Abril 2024",
+    "item-1": "Diseño y desarrollo de componentes de usuario con Next.js.",
+    "item-2": "Integración de datos con PostgreSQL (Supabase).",
+    "item-3": "Implementación de MaterialUI como sistema de diseño.",
+    "item-4": "Gestión de tablas y creación de CRUDs visuales."
   },
   "skills": {
     "title": "Habilidades",

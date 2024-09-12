@@ -1,7 +1,7 @@
 {
   "hero": {
-    "role": "Web Developer - Frontend Developer",
-    "description": "With a focus in the frontend side delivering high-quality solutions for enhanced user experiences. "
+    "role": "Web Developer",
+    "description": "Specialized in frontend, focused on offering high quality solutions that improve the user experience."
   },
   "contact": {
     "title": "Contact"
@@ -10,23 +10,23 @@
     "title": "Education"
   },
   "educationItem-1": {
-    "title": "Secondary School n°11",
-    "description": "Focused on Social Sciences",
+    "title": "Secondary School No. 11",
+    "description": "Specialized in Social Sciences",
     "date": "2015 - 2021"
   },
   "educationItem-2": {
     "title": "Web Development",
-    "description": "Self-taught training",
+    "description": "Self-taught learning",
     "date": "2021 - Present"
   },
   "languages": {
     "title": "Languages",
     "spanish": "Native Spanish",
-    "english": "English A2"
+    "english": "English (A2)"
   },
   "about": {
-    "title": "About me",
-    "description": "I've been diving into the web ecosystem on my own for nearly two years now focusing on the Frontend Development, soaking up everything I can about crafting awesome user interfaces. Always hungry to learn and stay on top of the latest web tech."
+    "title": "About Me",
+    "description": "I've been deeply involved in the web ecosystem for nearly two years, focusing on frontend development. I'm passionate about creating outstanding user interfaces, always eager to learn, and staying up to date with the latest web technologies."
   },
   "experience": {
     "title": "Experience"
@@ -34,11 +34,11 @@
   "experienceItem-1": {
     "name": "Pawtrics Software LLC",
     "role": "Frontend Developer Trainee",
-    "date": "May 2023 - Apr 2024",
-    "item-1": "Design and development of user interface components with Next.js",
-    "item-2": "Data fetching from PostgreSQL (Supabase)",
-    "item-3": "Implementation of MaterialUI as a design system",
-    "item-4": "Management of visual tables and creation of CRUDs"
+    "date": "May 2023 - April 2024",
+    "item-1": "Designed and developed user interface components using Next.js.",
+    "item-2": "Integrated data from PostgreSQL (Supabase).",
+    "item-3": "Implemented MaterialUI as a design system.",
+    "item-4": "Managed visual tables and developed CRUDs."
   },
   "skills": {
     "title": "Skills",
