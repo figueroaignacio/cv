@@ -7,8 +7,8 @@
     <link href="./src/styles/output.css" rel="stylesheet" />
     <title>Ignacio Figueroa - Curriculum Vitae</title>
   </head>
-  <body class="max-w-7xl mx-auto">
-    <main class="flex flex-col gap-5 px-56 py-14">
+  <body class="">
+    <main class="flex flex-col gap-5">
       <!-- Sección de encabezado con nombre y descripción -->
       <section class="flex items-center justify-between">
         <div>
@@ -20,15 +20,10 @@
             class="max-w-96 text-pretty"
           ></p>
         </div>
-
-        <div>
-          <i class="fa-solid fa-location-dot"></i>
-          <span class="text-xs"> Buenos Aires, Argentina </span>
-        </div>
       </section>
 
       <!-- Línea divisoria -->
-      <div class="border-[1px] border-black/10"></div>
+      <div class="border-[1px] border-black/"></div>
 
       <!-- Sección principal dividida en dos columnas -->
       <div class="grid grid-cols-2 justify-center">
@@ -37,12 +32,20 @@
             <!-- Sección de contacto -->
             <h3 data-section="contact" data-value="title"></h3>
             <div class="space-y-2 text-sm">
+              <p>
+                <i class="fa-solid fa-location-dot"></i>
+                Buenos Aires, Argentina
+              </p>
               <p><i class="fa-solid fa-phone"></i>+54 9 1128066862</p>
               <p>
                 <i class="fa-solid fa-envelope"></i>ignaciofigueroadev@gmail.com
               </p>
               <p><i class="fa-brands fa-linkedin"></i>Ignacio Figueroa</p>
               <p><i class="fa-brands fa-github"></i>figueroaignacio</p>
+              <p>
+                <i class="fa-solid fa-link"></i>
+                ignaciofigueroa.vercel.app
+              </p>
             </div>
           </div>
 
@@ -66,7 +69,7 @@
           <!-- Seccion de proyectos -->
           <div>
             <h3 data-section="projects" data-value="title"></h3>
-            <div class="space-y-4">
+            <div class="space-y-2">
               <div>
                 <h4 data-section="projectItem-1" data-value="name"></h4>
                 <p
@@ -74,7 +77,6 @@
                   data-value="description"
                   class="max-w-80"
                 ></p>
-                <p data-section="projectItem-1" data-value="date"></p>
               </div>
               <div>
                 <h4 data-section="projectItem-2" data-value="name"></h4>
@@ -83,7 +85,6 @@
                   data-value="description"
                   class="max-w-80"
                 ></p>
-                <p data-section="projectItem-2" data-value="date"></p>
               </div>
             </div>
           </div>
@@ -171,11 +172,11 @@
       </div>
 
       <!-- Botones de selección de idioma -->
-      <div class="absolute top-0 right-0 mt-4 mr-4 flex items-center space-x-1">
+      <!-- <div class="absolute top-0 right-0 mt-4 mr-4 flex items-center space-x-1">
         <button class="lang-button" data-language="es">ES</button>
         <span>/</span>
         <button class="lang-button" data-language="en">EN</button>
-      </div>
+      </div> -->
     </main>
 
     <!-- Scripts -->
