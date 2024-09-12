@@ -4,44 +4,44 @@
     "description": "Especializado en frontend, enfocado en ofrecer soluciones de alta calidad que mejoren la experiencia del usuario."
   },
   "contact": {
-    "title": "Contacto"
+    "title": "Información de Contacto"
   },
   "education": {
-    "title": "Educación"
+    "title": "Formación"
   },
   "educationItem-1": {
-    "title": "Escuela de Educación Secundaria N°11",
+    "title": "Escuela Secundaria N°11",
     "description": "Orientación en Ciencias Sociales",
     "date": "2015 - 2021"
   },
   "educationItem-2": {
     "title": "Desarrollo Web",
-    "description": "Formación autodidacta",
-    "date": "2021 - Actualidad"
+    "description": "Aprendizaje autodidacta en tecnologías web y desarrollo frontend",
+    "date": "2021 - Presente"
   },
   "languages": {
     "title": "Idiomas",
     "spanish": "Español (Nativo)",
-    "english": "Inglés (A2)"
+    "english": "Inglés (Nivel A2)"
   },
   "about": {
-    "title": "Sobre mí",
-    "description": "Llevo más de dos años inmerso en el ecosistema web de forma autodidacta, enfocándome en el desarrollo frontend. Me apasiona crear interfaces de usuario atractivas y funcionales, manteniéndome siempre al día con las últimas tecnologías."
+    "title": "Acerca de mí",
+    "description": "Desarrollador web Frontend con más de dos años de experiencia autodidacta en el ecosistema web. Me especializo en crear interfaces atractivas y funcionales, y me mantengo al día con las últimas tendencias tecnológicas para ofrecer soluciones modernas y escalables."
   },
   "experience": {
     "title": "Experiencia"
   },
   "experienceItem-1": {
     "name": "Pawtrics Software LLC",
-    "role": "Desarrollador Frontend Trainee",
+    "role": "Desarrollador Frontend Junior",
     "date": "Mayo 2023 - Abril 2024",
-    "item-1": "Diseño y desarrollo de componentes de usuario con Next.js.",
-    "item-2": "Integración de datos con PostgreSQL (Supabase).",
-    "item-3": "Implementación de MaterialUI como sistema de diseño.",
-    "item-4": "Gestión de tablas y creación de CRUDs visuales."
+    "item-1": "Desarrollo de componentes de interfaz de usuario utilizando Next.js.",
+    "item-2": "Integración de bases de datos con PostgreSQL mediante Supabase.",
+    "item-3": "Implementación del sistema de diseño MaterialUI para mejorar la consistencia visual.",
+    "item-4": "Gestión de tablas y creación de interfaces CRUD optimizadas para usuarios."
   },
   "skills": {
-    "title": "Habilidades",
-    "skillsItems": "JavaScript, TypeScript, HTML, CSS, Tailwind, MaterialUI, React.js, Next.js, Astro, Markdown, Git, GitHub, Visual Studio Code."
+    "title": "Habilidades Técnicas",
+    "skillsItems": "JavaScript, TypeScript, HTML, CSS, Tailwind CSS, MaterialUI, React.js, Next.js, Astro, Git, GitHub, Visual Studio Code."
   }
 }

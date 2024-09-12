@@ -1,7 +1,7 @@
 {
   "hero": {
     "role": "Web Developer",
-    "description": "Specialized in frontend, focused on offering high quality solutions that improve the user experience."
+    "description": "Frontend specialist with a focus on delivering high-quality solutions that enhance user experience."
   },
   "contact": {
     "title": "Contact"
@@ -11,37 +11,37 @@
   },
   "educationItem-1": {
     "title": "Secondary School No. 11",
-    "description": "Specialized in Social Sciences",
+    "description": "Specialization in Social Sciences",
     "date": "2015 - 2021"
   },
   "educationItem-2": {
     "title": "Web Development",
-    "description": "Self-taught learning",
+    "description": "Self-directed learning in web development",
     "date": "2021 - Present"
   },
   "languages": {
     "title": "Languages",
-    "spanish": "Native Spanish",
+    "spanish": "Spanish (Native)",
     "english": "English (A2)"
   },
   "about": {
     "title": "About Me",
-    "description": "I've been deeply involved in the web ecosystem for nearly two years, focusing on frontend development. I'm passionate about creating outstanding user interfaces, always eager to learn, and staying up to date with the latest web technologies."
+    "description": "I have been actively involved in the web development ecosystem for over two years, specializing in frontend development. I’m passionate about creating intuitive and visually appealing user interfaces while staying current with the latest web technologies."
   },
   "experience": {
-    "title": "Experience"
+    "title": "Professional Experience"
   },
   "experienceItem-1": {
     "name": "Pawtrics Software LLC",
     "role": "Frontend Developer Trainee",
     "date": "May 2023 - April 2024",
     "item-1": "Designed and developed user interface components using Next.js.",
-    "item-2": "Integrated data from PostgreSQL (Supabase).",
-    "item-3": "Implemented MaterialUI as a design system.",
-    "item-4": "Managed visual tables and developed CRUDs."
+    "item-2": "Integrated and managed data using PostgreSQL (via Supabase).",
+    "item-3": "Implemented MaterialUI for consistent design across the project.",
+    "item-4": "Developed visual CRUD interfaces and managed data tables."
   },
   "skills": {
-    "title": "Skills",
-    "skillsItems": "JavaScript, TypeScript, HTML, CSS, Tailwind, MaterialUI, React.js, Next.js, Astro, Markdown, Git, GitHub, Visual Studio Code."
+    "title": "Core Skills",
+    "skillsItems": "JavaScript, TypeScript, HTML, CSS, Tailwind CSS, MaterialUI, React.js, Next.js, Astro, Markdown, Git, GitHub, Visual Studio Code."
   }
 }
