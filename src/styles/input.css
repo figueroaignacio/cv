@@ -44,10 +44,14 @@ body {
   }
 
   i {
-    @apply text-gray-500 mr-2 text-sm;
+    @apply text-gray-500 mr-2 text-sm no-underline;
   }
 
   a {
-    @apply text-indigo-600 hover:text-indigo-800 transition duration-300;
+    @apply flex text-blue-700;
+  }
+
+  a i {
+    @apply no-underline;
   }
 }

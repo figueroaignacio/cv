@@ -29,11 +29,13 @@
   },
   "projectItem-1": {
     "name": "Web Society Platform",
+    "url": "https://websociety.netlify.app/es",
     "description": "Una plataforma que cubre las últimas tendencias y herramientas en desarrollo web.",
     "date": "2023 - Presente"
   },
   "projectItem-2": {
     "name": "Aspen UI Kit",
+    "url": "https://aspen-ui.netlify.app",
     "description": "kit de componentes UI desarrollada con React.js, TypeScript y Tailwind, enfocada en proporcionar componentes flexibles y personalizables.",
     "date": "2024 - Presente"
   },

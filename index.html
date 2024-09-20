@@ -8,7 +8,7 @@
     <title>Ignacio Figueroa - Curriculum Vitae</title>
   </head>
   <body class="">
-    <main class="flex flex-col gap-5">
+    <main class="flex flex-col gap-5 max-w-5xl py-16 mx-auto">
       <!-- Sección de encabezado con nombre y descripción -->
       <section class="flex items-center justify-between">
         <div>
@@ -37,15 +37,24 @@
                 Buenos Aires, Argentina
               </p>
               <p><i class="fa-solid fa-phone"></i>+54 9 1128066862</p>
-              <p>
-                <i class="fa-solid fa-envelope"></i>ignaciofigueroadev@gmail.com
-              </p>
-              <p><i class="fa-brands fa-linkedin"></i>Ignacio Figueroa</p>
-              <p><i class="fa-brands fa-github"></i>figueroaignacio</p>
-              <p>
+              <a href="mailto:ignaciofigueroadev@gmail.com">
+                <i class="fa-solid fa-envelope"></i>
+                <span class="underline">ignaciofigueroadev@gmail.com</span>
+              </a>
+              <a
+                href="https://www.linkedin.com/in/ignacio-figueroa-0a1ba0263/"
+                target="_blank"
+                ><i class="fa-brands fa-linkedin"></i
+                ><span class="underline">Ignacio Figueroa </span></a
+              >
+              <a href="https://github.com/figueroaignacio" target="_blank"
+                ><i class="fa-brands fa-github"></i
+                ><span class="underline">figueroaignacio </span></a
+              >
+              <a href="https://ignaciofigueroa.vercel.app" target="_blank">
                 <i class="fa-solid fa-link"></i>
-                ignaciofigueroa.vercel.app
-              </p>
+                <span class="underline">ignaciofigueroa.vercel.app</span>
+              </a>
             </div>
           </div>
 
@@ -71,7 +80,13 @@
             <h3 data-section="projects" data-value="title"></h3>
             <div class="space-y-2">
               <div>
-                <h4 data-section="projectItem-1" data-value="name"></h4>
+                <a
+                  data-section="projectItem-1"
+                  data-value="name"
+                  href="https://websociety.netlify.app/es"
+                  target="_blank"
+                  class="underline"
+                ></a>
                 <p
                   data-section="projectItem-1"
                   data-value="description"
@@ -79,7 +94,13 @@
                 ></p>
               </div>
               <div>
-                <h4 data-section="projectItem-2" data-value="name"></h4>
+                <a
+                  data-section="projectItem-2"
+                  data-value="name"
+                  href="https://websociety.netlify.app/es"
+                  target="_blank"
+                  class="underline"
+                ></a>
                 <p
                   data-section="projectItem-2"
                   data-value="description"
@@ -119,7 +140,7 @@
                   class="text-xs"
                 ></span>
               </div>
-              <ul class="space-y-1">
+              <ul class="space-y-1 text-sm">
                 <li
                   data-section="experienceItem-1"
                   data-value="item-1"
@@ -172,11 +193,11 @@
       </div>
 
       <!-- Botones de selección de idioma -->
-      <!-- <div class="absolute top-0 right-0 mt-4 mr-4 flex items-center space-x-1">
+      <div class="absolute top-0 right-0 mt-4 mr-4 flex items-center space-x-1">
         <button class="lang-button" data-language="es">ES</button>
         <span>/</span>
         <button class="lang-button" data-language="en">EN</button>
-      </div> -->
+      </div>
     </main>
 
     <!-- Scripts -->

@@ -29,11 +29,13 @@
   },
   "projectItem-1": {
     "name": "Web Society Platform",
+    "url": "https://websociety.netlify.app/en",
     "description": "A platform that covers the latest trends and tools in frontend development, built with Next.js and Tailwind CSS.",
     "date": "2023 - Present"
   },
   "projectItem-2": {
     "name": "Aspen UI Kit",
+    "url": "https://aspen-ui.netlify.app",
     "description": "UI Components kit developed with React.js and TypeScript, focused on providing flexible and customizable components.",
     "date": "2024 - Present"
   },
